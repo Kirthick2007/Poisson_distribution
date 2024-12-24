@@ -1,4 +1,5 @@
 # Fitting Poisson  distribution
+# Ex no : 2
 # Date :
 # Name : KIRTHICK SHA R
 # Reg number : 24900676
